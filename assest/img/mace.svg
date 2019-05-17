@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3470" height="1365.721" viewBox="0 0 3470 1365.721">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        stroke: #48742b;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-linecap: round;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-linejoin: round;
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        stroke-width: 70px;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        stroke: #121212;
+      }
+
+      .cls-5 {
+        stroke-width: 60px;
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-8 {
+        fill: #121212;
+        font-size: 352px;
+        font-family: YuKyo-Bold, YuKyokasho;
+        font-weight: 700;
+      }
+
+      .cls-9 {
+        fill: #48742b;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="3470" height="1365.721"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" width="3470" height="352"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_4" data-name="Repeat Grid 4" class="cls-2">
+    <g id="Group_3" data-name="Group 3" transform="translate(-1450 -1348.147)">
+      <g id="Logo_MAce" data-name="Logo MAce" transform="translate(1532.49 1383.195)">
+        <path id="Path_1" data-name="Path 1" class="cls-3" d="M2697.653,1150.2l-336.9,783.829h695.8Z" transform="translate(-1378.223 -1150.195)"/>
+        <path id="Path_2" data-name="Path 2" class="cls-4" d="M1603.617,2001.884V1198.431l359.777,765.478,374.4-765.478v803.454" transform="translate(-1603.617 -1198.431)"/>
+        <g id="Group_2" data-name="Group 2" transform="translate(2794.149 16.233)">
+          <g id="Group_1" data-name="Group 1">
+            <path id="Path_3" data-name="Path 3" class="cls-5" d="M4356.583,1187H3816v795.329h560.151" transform="translate(-3815.997 -1187.003)"/>
+          </g>
+          <path id="Path_4" data-name="Path 4" class="cls-5" d="M3816,1481.293h510.011" transform="translate(-3815.997 -1098.732)"/>
+        </g>
+        <path id="Path_5" data-name="Path 5" class="cls-6" d="M3700.684,1360.409S3648.2,1177.5,3427.831,1170.927c-3.3-.2,3.4.061,0,0-186.022-19.8-361.666,135.987-355.58,406.848s148.555,385.435,296.167,400.5,268.2-53.781,340.035-235.122" transform="translate(-1170.623 -1169.242)"/>
+      </g>
+      <g id="Repeat_Grid_2" data-name="Repeat Grid 2" class="cls-7" transform="translate(1450 2361.869)">
+        <g transform="translate(-1450 -2361.869)">
+          <g id="Repeat_Grid_3" data-name="Repeat Grid 3" class="cls-7" transform="translate(1450 2361.869)">
+            <g transform="translate(-1450 -2361.869)">
+              <text id="Rumah_Walet_Cerdas" data-name="Rumah Walet Cerdas" class="cls-8" transform="translate(1450 2671.869)"><tspan x="0" y="0">Rumah </tspan><tspan class="cls-9" y="0">Walet </tspan><tspan y="0">Cerdas</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
