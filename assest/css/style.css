@@ -314,7 +314,6 @@ span.slicknav_icon-bar {
 span.slicknav_icon {
     margin: 0 !important;
     font-size: 23px;
-    /* margin-top: 12px !important; */
     text-shadow: 0 0 0;
     background: transparent;
 }
@@ -410,10 +409,6 @@ ul.slicknav_nav li a:focus {
 /*===============================
     *Hero Area CSS
 ================================*/
-.hero-area-bg.style-2 {
-    background-image: url(../img/hero-area-bg.jpg);
-}
-
 .hero-area-bg.style-3 {
     background-image: url(../img/walet.jpg);
 }
@@ -545,13 +540,6 @@ ul.slicknav_nav li a:focus {
     background-color: #48742b;
 }
 
-/* .hero_area img {
-    padding: 15px 0px;
-    min-width: 100%;
-    width: 370px;
-    height: 100%;
-} */
-
 .hero_text .boxed_btn.active {
     background-color: #48742b;
     color: #fff;
@@ -675,15 +663,6 @@ img {
     position: relative;
 }
 
-/* .bg-border3 {
-    height: 315px;
-    width: 315px;
-    border: 1px solid #F7EDFF;
-    border-radius: 50%;
-    margin: 69px;
-    position: relative;
-} */
-
 .dot {
     height: 18px;
     width: 18px;
@@ -753,12 +732,6 @@ img {
 /*===============================
     *Video Area CSS
 ================================*/
-/* .video_area_text h1 {
-    font-size: 36px;
-    margin-bottom: 35px;
-    line-height: 26px;
-    margin-top: 20px;
-} */
 .video_area_text img {
     height: 70px;
     width: 70px;
@@ -1245,7 +1218,6 @@ img {
 /*===============================
     *Responsive CSS
 ================================*/
-/*Medium Layout 1280px.*/
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
     .main_menu {
         margin-left: 0px;
